@@ -1,0 +1,16 @@
+[Unit]
+Description=Praetoris Wiki Discord Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/praetoris-bot
+ExecStart=/opt/praetoris-bot/.venv/bin/python bot.py
+EnvironmentFile=/opt/praetoris-bot/.env
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
