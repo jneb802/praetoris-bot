@@ -237,7 +237,14 @@ SECTIONS = {
             "- [FirstPersonMode v1.3.12](https://thunderstore.io/c/valheim/p/Azumatt/FirstPersonMode/)\n"
             "- [Asocial Cartography v0.3.1](https://thunderstore.io/c/valheim/p/VentureValheim/Asocial_Cartography/)\n"
             "- [Ore Support v1.11.0](https://thunderstore.io/c/valheim/p/JereKuusela/Ore_Support/)\n"
-            "- [DualWielder v1.1.1](https://thunderstore.io/c/valheim/p/RustyMods/DualWielder/)"
+            "- [DualWielder v1.1.1](https://thunderstore.io/c/valheim/p/RustyMods/DualWielder/)\n"
+            "- [Configuration Manager v1.1.13](https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/)\n"
+            "- [More Player Cloth Colliders v3.1.0](https://thunderstore.io/c/valheim/p/HugotheDwarf/More_and_Modified_Player_Cloth_Colliders/)\n"
+            "- [ShaderHelperForMac v1.0.0](https://thunderstore.io/c/valheim/p/DrummerCraig/ShaderHelperForMac/)\n"
+            "- [Instaloot v1.2.0](https://thunderstore.io/c/valheim/p/ComfyMods/Instaloot/)\n"
+            "- [WieldEquipmentWhileSwimming v1.1.3](https://thunderstore.io/c/valheim/p/blacks7ar/WieldEquipmentWhileSwimming/)\n"
+            "- [Spearfishing v1.0.4](https://thunderstore.io/c/valheim/p/Korppis/Spearfishing/)\n"
+            "- [Groups v1.2.9](https://thunderstore.io/c/valheim/p/Smoothbrain/Groups/)"
         ),
     },
 }
