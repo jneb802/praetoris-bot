@@ -7,7 +7,7 @@ HOST="root@moonmail"
 REMOTE_DIR="/opt/praetoris-bot"
 
 echo "Syncing files to moonmail..."
-rsync -avz --exclude '.env' --exclude '.venv' --exclude '__pycache__' \
+rsync -avz --exclude '.env' --exclude '.venv' --exclude '__pycache__' --exclude 'state.json' \
   "$(dirname "$0")/" "$HOST:$REMOTE_DIR/"
 
 echo "Setting up and restarting on moonmail..."
