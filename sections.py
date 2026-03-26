@@ -10,9 +10,8 @@ VBNET_URL = "https://thunderstore.io/c/valheim/p/VitByr/VBNetTweaks/"
 WIKI_DESCRIPTION = (
     "*Season 5 \u2014 Hardcore exploration modpack by warpalicious*\n\n"
     "Welcome to Praetoris, a curated Valheim server focused on "
-    "challenging combat, no-portal exploration, and meaningful "
-    "progression. The world is harder, the loot is better, and "
-    "every expedition matters.\n\n"
+    "challenging combat, balanced progression, and extensive "
+    "world exploration.\n\n"
     "Use the buttons and menus below to explore server info, "
     "mod configs, and gameplay guides."
 )
