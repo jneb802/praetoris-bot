@@ -105,7 +105,13 @@ MOD_CONFIGS = {
             "10 stars    \u2502 2.0x (200%)      \u2502 1.20x (120%)\n"
             "```\n"
             "`EnemyDamageLevelMultiplier` = 0.1 \u2022 `BossEnemyDamageMultiplier` = 0.02\n"
-            "Formula: `damage_multiplier = 1 + (star_level \u00d7 DamagePerLevel)`"
+            "Formula: `damage_multiplier = 1 + (star_level \u00d7 DamagePerLevel)`\n\n"
+            "**Health Scaling**\n"
+            "- Boss health per star: **+20%**\n"
+            "- Enemies and bosses have **+10%** health per player nearby\n\n"
+            "**Boss Modifiers**\n"
+            "- Life-linked weight: **5** (reduced from 10)\n"
+            "- All other boss modifier weights: **10**"
         ),
     },
 }
